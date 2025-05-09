@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+xgboost
+lightgbm
+joblib
+numpy
+pandas
+python-docx
+PyPDF2
+pdfplumber
